@@ -2,10 +2,6 @@
 
 Nine review-and-diagnosis subagents, packaged for local installation.
 
-Extracted from [`surplus96/Langgraph-MCP-Agent`](https://github.com/surplus96/Langgraph-MCP-Agent)
-at `.claude/agents/`. The agent definitions in `agents/` are byte-identical
-copies of the ones that repository uses — verify with `MANIFEST.txt`.
-
 Korean: see [README_KOR.md](README_KOR.md).
 
 ## What is in here
